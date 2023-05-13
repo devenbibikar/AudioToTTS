@@ -22,5 +22,5 @@ I don't believe that this setup properly configures the audio input from a real 
 
 ### Reference:
 https://askubuntu.com/questions/572120/how-to-use-jack-and-pulseaudio-alsa-at-the-same-time-on-the-same-audio-device
-
+https://www.youtube.com/watch?v=MYRgWwis1Jk
 
