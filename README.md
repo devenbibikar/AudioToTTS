@@ -17,6 +17,6 @@ I don't believe that this setup properly configures the audio input from a real 
 This setup works best on a linux machine. Jack can be setup on Windows, but the start-up commands might not be required. 
 Current setup involves a bash script. This might not work as expected on Windows/Mac.
 
-Reference:
+### Reference:
 https://askubuntu.com/questions/572120/how-to-use-jack-and-pulseaudio-alsa-at-the-same-time-on-the-same-audio-device
 https://gtts.readthedocs.io/en/latest/index.html
