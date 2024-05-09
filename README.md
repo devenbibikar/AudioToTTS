@@ -1,5 +1,5 @@
 # AudioToTTS
-A quick guide to take in speech, convert it to TTS, and pipe audio to an audio input. Works for Ubuntu 22.10 LTS
+A quick guide (using JACK) to take in speech, convert it to TTS, and pipe audio to an audio input. Works for Ubuntu 22.10 LTS
 
 ### Prerequisites:
 pavucontrol, jackd, qjackctl, pulseaudio-module-jack, sox, libsox-fmt-mp3
